@@ -1,5 +1,6 @@
 # data structure and algorithm
 Example code collection
+
 --------------------
 
 In this repo, I am making a collection of easily understandable code collection. 
